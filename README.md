@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Currently working on MERN stack projects (Job Portal & Web Apps)<br>🤝 Looking to collaborate on Open-source MERN projects<br>🌱 Learning Next.js & Firebase<br>💬 Ask me about MERN, REST APIs, Tailwind CSS<br>⚡ Fun fact I enjoy building projects that solve real-world problems
+💻 Currently working on MERN stack projects (Web Apps)<br>🤝 Looking to collaborate on Open-source MERN projects<br>🌱 Learning Next.js & Firebase<br>💬 Ask me about MERN, REST APIs, Tailwind CSS<br>⚡ Fun fact I enjoy building projects that solve real-world problems
 
 
 ## 🌐 Socials:
